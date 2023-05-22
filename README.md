@@ -9,7 +9,7 @@ This script is designed to retrieve web bindings (IIS) and display them in a gro
 
 ## Usage
 
-Open a PowerShell console and run the code from `domain-binding-info`
+Open a PowerShell console and run the code from [domain-binding-info](domain-binding-info)
 
 ### How It Works
 
