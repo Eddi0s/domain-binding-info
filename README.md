@@ -36,8 +36,8 @@ Example output:
 Name       Bindings
 ----       --------
 Default    *
-Example    example.com:80
-           example.org:443
+Example    example.com
+           example.org
 ```
 
 If a domain is specified, only the web bindings containing the specified domain will be retrieved and displayed. For example, if `$domain` is set to `"example.com"`, only the web bindings with `example.com` will be shown:
@@ -49,6 +49,6 @@ $domain = "example.com"
 ```powershell
 Name       Bindings
 ----       --------
-Example    example.com:80
+Example    example.com
 ```
 
