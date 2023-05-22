@@ -53,4 +53,4 @@ Example    example.com
 ```
 
 © Danny
-`$domain` option added by Eddi0S
+`$domain` option added by Eddi0s
